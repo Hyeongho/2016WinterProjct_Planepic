@@ -1,0 +1,48 @@
+Initialize engine version: 5.5.0f3 (38b4efef76f0)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GTX 960M (ID=0x139b)
+    Vendor:   NVIDIA
+    VRAM:     2010 MB
+    Driver:   24.21.13.9901
+Begin MonoManager ReloadAssembly
+Platform assembly: D:\2016 겨울개발\PLANEPIC\planpic_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading D:\2016 겨울개발\PLANEPIC\planpic_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: D:\2016 겨울개발\PLANEPIC\planpic_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading D:\2016 겨울개발\PLANEPIC\planpic_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: D:\2016 겨울개발\PLANEPIC\planpic_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading D:\2016 겨울개발\PLANEPIC\planpic_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: D:\2016 겨울개발\PLANEPIC\planpic_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading D:\2016 겨울개발\PLANEPIC\planpic_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: D:\2016 겨울개발\PLANEPIC\planpic_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll (this message is harmless)
+Loading D:\2016 겨울개발\PLANEPIC\planpic_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll into Unity Child Domain
+- Completed reload, in  0.396 seconds
+Platform assembly: D:\2016 겨울개발\PLANEPIC\planpic_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: D:\2016 겨울개발\PLANEPIC\planpic_Data\Managed\System.dll (this message is harmless)
+desktop: 1600x900 59Hz; virtual: 1600x900 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 49.892002 ms
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 4c04 -> priority: 1 
+  Thread -> id: e8 -> priority: 1 
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 7.155600 ms
+
+Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 1205.
+Total: 1.040100 ms (FindLiveObjects: 0.053500 ms CreateObjectMapping: 0.042900 ms MarkObjects: 0.930400 ms  DeleteObjects: 0.012500 ms)
+
+BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Leaf 1(Clone)"
+ 
+(Filename:  Line: 0)
+
+BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Leaf 1(Clone)/leaf_body"
+ 
+(Filename:  Line: 0)
+
